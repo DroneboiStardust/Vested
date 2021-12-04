@@ -3,9 +3,12 @@
 Discord: https://dsc.gg/vested
 
 ### todo:
-- [ ] griefer highlight
-- [ ] multi-client support (random userid)
-- [X] sell all for ore
-- [X] more blocks in sandbox
-- [X] remove key loader supporter and dev bypass
-- [ ] disable all weapons at spawn (including explosive)
+- [ ] Griefer highlight
+- [X] Multi-client support (random userid)
+- [X] Sell all for ore
+- [X] More blocks in sandbox
+- [X] Remove key loader supporter and dev bypass
+- [X] Disable all weapons at spawn (including explosive)
+- [X] Detect and block modded weapons
+- [ ] Anti-richtext filter
+
