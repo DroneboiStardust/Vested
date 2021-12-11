@@ -4,7 +4,6 @@ Discord: https://dsc.gg/vested
 
 ### todo:
 - [ ] "Resource packs" for Droneboi
-- [ ] Griefer highlight
 - [X] Multi-client support (random userid)
 - [X] Sell all for ore
 - [X] More blocks in sandbox
