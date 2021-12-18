@@ -10,5 +10,5 @@ Discord: https://dsc.gg/vested
 - [X] Remove key loader supporter and dev bypass
 - [X] Disable all weapons at spawn (including explosive)
 - [X] Detect and block modded weapons
-- [ ] Anti-richtext filter
+- [X] Anti-richtext filter
 
